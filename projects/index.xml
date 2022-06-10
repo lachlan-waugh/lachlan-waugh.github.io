@@ -10,69 +10,57 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://lwaugh.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://lwaugh.io/projects/3900/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lwaugh.io/projects/3900/</guid>
-      <description>TODO</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lwaugh.io/projects/9301/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lwaugh.io/projects/9301/</guid>
-      <description>TODO</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lwaugh.io/projects/dsm/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lwaugh.io/projects/dsm/</guid>
-      <description>TODO</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lwaugh.io/projects/fuzzer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lwaugh.io/projects/fuzzer/</guid>
-      <description>TODO</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://lwaugh.io/projects/lwaugh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lwaugh.io/projects/lwaugh/</guid>
-      <description>TODO</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Money Trees</title>
       <link>https://lwaugh.io/projects/money-trees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/money-trees/</guid>
-      <description>github link
-What is this? Money Trees provides a more secure way to interact with private and public package repositories using CodeArtifact, it also provides an enforcible process to handle code changes in private repositories and a dashboard that provides actionable intel, where the developers can focus on deploying a fix when the dashboard highlights packages that are vulnerable.
-&amp;lt;img src=&amp;ldquo;https://i.imgur.com/VDpD4Ky.png&amp;quot; alt=&amp;ldquo;frontend pic&amp;rdquo; /&amp;gt;
-Table of contents Background Demo Installation Deployment Usage Team Components Background Software based dependency based attacks have been rising as one of the most damaging cyber attacks impacting business in this current time.</description>
+      <description>It&amp;#39;s a security thingo</description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://lwaugh.io/projects/reports/</link>
+      <title>lwaugh.io</title>
+      <link>https://lwaugh.io/projects/lwaugh/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://lwaugh.io/projects/reports/</guid>
-      <description>TODO</description>
+      <guid>https://lwaugh.io/projects/lwaugh/</guid>
+      <description>idk yet</description>
+    </item>
+    
+    <item>
+      <title>fuzzer</title>
+      <link>https://lwaugh.io/projects/fuzzer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lwaugh.io/projects/fuzzer/</guid>
+      <description>idk yet</description>
+    </item>
+    
+    <item>
+      <title>3900 project</title>
+      <link>https://lwaugh.io/projects/3900/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lwaugh.io/projects/3900/</guid>
+      <description>idk yet</description>
+    </item>
+    
+    <item>
+      <title>9301 project</title>
+      <link>https://lwaugh.io/projects/9301/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lwaugh.io/projects/9301/</guid>
+      <description>idk yet</description>
+    </item>
+    
+    <item>
+      <title>distributed shared memory</title>
+      <link>https://lwaugh.io/projects/dsm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lwaugh.io/projects/dsm/</guid>
+      <description>idk yet</description>
     </item>
     
   </channel>
