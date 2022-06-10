@@ -1,3 +1,8 @@
+---
+permalink: /education/
+title: "education"
+---
+
 ## UNSW (University of New South Wales), 2019 - 2022
 * Bachelor of Computer Science - Security Engineering
 * Bachelor of Science - Mathematics
