@@ -41,6 +41,7 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+  hideMeta: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -116,18 +117,22 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: home
+      name: home
+      url: /
+      weight: 10
     - identifier: projects
       name: projects
       url: /projects/
-      weight: 10
+      weight: 20
     - identifier: experience
       name: experience
       url: /experience/
-      weight: 20
+      weight: 30
     - identifier: education
       name: education
       url: /education/
-      weight: 30
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

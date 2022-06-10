@@ -1,4 +1,10 @@
-[github link]("https://github.com/cs9447-team2/money-trees")
+---
+title: "Money Trees"
+description: "It's a security thingo"
+weight: 10
+---
+
+[Check it out on GitHub here!](https://github.com/lachlan-waugh/money-trees)
 
 ![](https://i.imgur.com/kk08mRi.png)
 
@@ -9,10 +15,7 @@
 
 Money Trees provides a more secure way to interact with private and public package repositories using CodeArtifact, it also provides an enforcible process to handle code changes in private repositories and a dashboard that provides actionable intel, where the developers can focus on deploying a fix when the dashboard highlights packages that are vulnerable.
 
-<img
-  src="https://i.imgur.com/VDpD4Ky.png"
-  alt="frontend pic"
-/>
+![](https://i.imgur.com/VDpD4Ky.png)
 
 ## Table of contents
 
