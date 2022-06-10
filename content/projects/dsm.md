@@ -1,6 +1,7 @@
 ---
 title: "distributed shared memory"
 description: "idk yet"
+weight: 20
 ---
 
 TODO

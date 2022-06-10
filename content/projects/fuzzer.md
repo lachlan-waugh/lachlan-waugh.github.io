@@ -1,7 +1,7 @@
 ---
 title: "fuzzer"
 description: "idk yet"
-weight: 30
+weight: 40
 ---
 
 TODO
