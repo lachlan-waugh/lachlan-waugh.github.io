@@ -4,6 +4,6 @@ description: "idk yet"
 weight: 20
 ---
 
-TODO
+The source code for the website you're on right now!
 
 [Check it out on GitHub here!](https://github.com/lachlan-waugh/lachlan-waugh.github.io)
