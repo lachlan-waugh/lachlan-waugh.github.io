@@ -1,5 +1,5 @@
 baseURL: "https://lwaugh.io/"
-title: Lachlan Waugh | Security Engineer
+title: Lachlan Waugh
 paginate: 5
 theme: PaperMod
 
@@ -58,16 +58,18 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Lachlan
-    subtitle: "This is subtitle"
-    imageUrl: "resources/_gen/images/melon.jpeg"
-    imageWidth: 120
-    imageHeight: 120
+    subtitle: "Security Engineer"
+    imageUrl: "https://www.plantsnap.com/wp-content/uploads/2020/11/shutterstock_1027540888.jpg"
+    imageWidth: 180
+    imageHeight: 180
     imageTitle: a profile image
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+    # - name: projects
+    #   url: /projects/
+    # - name: experience
+    #   url: /experience/
+    # - name: education
+    #   url: /education/
 
   # home-info mode
   homeInfoParams:
@@ -97,10 +99,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
