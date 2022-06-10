@@ -8,7 +8,6 @@ on:
 
 jobs:
   deploy:
-    if: github.repository != 'lachlan-waugh/tut-template'
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
@@ -22,12 +21,12 @@ jobs:
           extended: true
 
       - name: Build
-        run: cd slides && hugo --gc --minify --cleanDestinationDir -d public
+        run: hugo --gc --minify --cleanDestinationDir -d public
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with: 
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: ./slides/public
+          publish_dir: ./public
           enable_jekyll: true
