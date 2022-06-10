@@ -1,5 +1,5 @@
 baseURL: "https://lwaugh.io/"
-title: ExampleSite
+title: Lachlan Waugh | Security Engineer
 paginate: 5
 theme: PaperMod
 
@@ -52,9 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    text: "Lachlan Waugh"
 
   # profile-mode
   profileMode:
@@ -77,12 +75,14 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/lachlan-waugh"
+    - name: linkedin
+      url: "https://linkedin.com/in/lachlan-waugh"
+    - name: twitter
+      url: "https://twitter.com/lcahaln"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/14965098/lachlan-waugh"
 
   analytics:
     google:
@@ -114,17 +114,17 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: projects
+      name: projects
+      url: /projects/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: experience
+      name: experience
+      url: /experience/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: education
+      name: education
+      url: /education/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
