@@ -56,13 +56,13 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
+    enabled: true # needs to be explicitly set
+    title: Lachlan
     subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    imageUrl: "resources/_gen/images/melon.jpeg"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: my image
+    imageTitle: a profile image
     buttons:
       - name: Posts
         url: posts
