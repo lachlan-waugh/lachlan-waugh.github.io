@@ -8,7 +8,7 @@ author: "Me"
 showToc: true
 TocOpen: false
 draft: true
-hidemeta: false
+hidemeta: true
 comments: false
 description: "Desc Text."
 canonicalURL: "https://canonical.url/to/page"
@@ -17,10 +17,10 @@ disableShare: false
 disableHLJS: false
 hideSummary: false
 searchHidden: true
-ShowReadingTime: true
+ShowReadingTime: false
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
+ShowWordCount: false
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
@@ -34,3 +34,5 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+<!-- https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-variables/ -->

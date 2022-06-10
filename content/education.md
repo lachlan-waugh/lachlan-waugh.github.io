@@ -1,9 +1,13 @@
 ---
 permalink: /education/
 title: "education"
+description: "An overview of my time at University"
+hideMeta: true
 ---
 
-## UNSW (University of New South Wales), 2019 - 2022
+&nbsp;
+
+## University of New South Wales
 * Bachelor of Computer Science - Security Engineering
 * Bachelor of Science - Mathematics
 
@@ -11,9 +15,9 @@ title: "education"
 
 ## tutoring
 some of the courses I've tutored throughout uni.
-* **LAWS3040**: Regulations for Cybersecurity
-* **COMP6441**: Security Engineering and Cybersecurity
 * **COMP6447**: System and Software Security Assessment
+* **COMP6443**: Web Application Security and Testing
+* **COMP6441**: Security Engineering and Cybersecurity
 
 &nbsp;
 

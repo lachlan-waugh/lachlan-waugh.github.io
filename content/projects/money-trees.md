@@ -1,4 +1,4 @@
-<a href="https://github.com/cs9447-team2/money-trees">github link</a>
+[github link]("https://github.com/cs9447-team2/money-trees")
 
 ![](https://i.imgur.com/kk08mRi.png)
 
