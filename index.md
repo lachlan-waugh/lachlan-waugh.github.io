@@ -1,6 +1,5 @@
-# Yo
-Welcome
+# TODO
 
-[education](/education)
-[experience](/experience)
-[projects](/projects)
+* [education](/education)
+* [experience](/experience)
+* [projects](/projects)
