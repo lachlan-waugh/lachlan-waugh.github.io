@@ -1,7 +1,7 @@
 ---
 title: "lwaugh.io"
 description: "idk yet"
-weight: 50
+weight: 60
 ---
 
 The source code for the website you're on right now!

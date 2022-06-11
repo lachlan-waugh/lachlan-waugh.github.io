@@ -1,7 +1,7 @@
 ---
 title: "tutoring resources"
 description: "idk yet"
-weight: 30
+weight: 50
 ---
 
 Some resources I've put together for students.
