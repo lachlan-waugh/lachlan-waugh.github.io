@@ -7,7 +7,7 @@ hideMeta: true
 
 &nbsp;
 
-## University of New South Wales
+## university of new south wales
 * Bachelor of Computer Science - Security Engineering
 * Bachelor of Science - Mathematics
 
