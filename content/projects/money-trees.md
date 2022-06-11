@@ -1,5 +1,5 @@
 ---
-title: "Money Trees"
+title: "money trees"
 description: "A program to help identify and remediate dependency based attacks, and dependency confusion."
 summary: "A program to help identify and remediate dependency based attacks, and dependency confusion."
 weight: 10
