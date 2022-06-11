@@ -15,9 +15,9 @@ hideMeta: true
 
 ## tutoring
 some of the courses I've tutored throughout uni.
-* **COMP6447**: System and Software Security Assessment
-* **COMP6443**: Web Application Security and Testing
-* **COMP6441**: Security Engineering and Cybersecurity
+* **[COMP6447](https://webcms3.cse.unsw.edu.au/COMP6447/22T2/outline)**: System and Software Security Assessment
+* **[COMP6443]()**: Web Application Security and Testing
+* **[COMP6441]()**: Security Engineering and Cybersecurity
 
 &nbsp;
 
