@@ -15,7 +15,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/money-trees/</guid>
-      <description>It&amp;#39;s a security thingo</description>
+      <description>A program to help identify and remediate dependency based attacks, and dependency confusion.</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/dsm/</guid>
-      <description>idk yet</description>
+      <description>A distributed shared memory library to share a single address space across multiple nodes, built in C</description>
     </item>
     
     <item>
@@ -33,7 +33,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/fuzzer/</guid>
-      <description>idk yet</description>
+      <description>A fuzzer for binary programs taking simple plaintext, XML, JSON, &amp;amp; CSV input. Developed in Python.</description>
     </item>
     
     <item>
@@ -42,7 +42,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/packet-sniffer/</guid>
-      <description>hmm</description>
+      <description>A simple packet capture program to passively analyse and capture network traffic.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/tutoring/</guid>
-      <description>idk yet</description>
+      <description>Some resources I&amp;#39;ve put together for students (also hosted on this website).</description>
     </item>
     
     <item>
@@ -60,7 +60,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/lwaugh/</guid>
-      <description>idk yet</description>
+      <description>The source code for the website you&amp;#39;re on right now.</description>
     </item>
     
     <item>
@@ -69,7 +69,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/3900/</guid>
-      <description>idk yet</description>
+      <description>TODO: description</description>
     </item>
     
     <item>
@@ -78,7 +78,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/9301/</guid>
-      <description>idk yet</description>
+      <description>TODO: description</description>
     </item>
     
     <item>
