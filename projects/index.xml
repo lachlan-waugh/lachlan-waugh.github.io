@@ -28,20 +28,29 @@
     </item>
     
     <item>
-      <title>tutoring resources</title>
-      <link>https://lwaugh.io/projects/tutoring/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lwaugh.io/projects/tutoring/</guid>
-      <description>idk yet</description>
-    </item>
-    
-    <item>
       <title>fuzzer</title>
       <link>https://lwaugh.io/projects/fuzzer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://lwaugh.io/projects/fuzzer/</guid>
+      <description>idk yet</description>
+    </item>
+    
+    <item>
+      <title>packet sniffer</title>
+      <link>https://lwaugh.io/projects/packet-sniffer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lwaugh.io/projects/packet-sniffer/</guid>
+      <description>hmm</description>
+    </item>
+    
+    <item>
+      <title>tutoring resources</title>
+      <link>https://lwaugh.io/projects/tutoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lwaugh.io/projects/tutoring/</guid>
       <description>idk yet</description>
     </item>
     
