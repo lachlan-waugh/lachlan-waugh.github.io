@@ -1,6 +1,7 @@
 ---
 title: "packet sniffer"
-description: "hmm"
+description: "A simple packet capture program to passively analyse and capture network traffic."
+summary: "A simple packet capture program to passively analyse and capture network traffic."
 weight: 40
 ---
 

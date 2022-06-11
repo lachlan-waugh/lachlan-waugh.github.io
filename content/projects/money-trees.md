@@ -1,6 +1,7 @@
 ---
 title: "Money Trees"
-description: "It's a security thingo"
+description: "A program to help identify and remediate dependency based attacks, and dependency confusion."
+summary: "A program to help identify and remediate dependency based attacks, and dependency confusion."
 weight: 10
 ---
 
@@ -18,7 +19,6 @@ Money Trees provides a more secure way to interact with private and public packa
 ![](https://i.imgur.com/VDpD4Ky.png)
 
 ## Table of contents
-
 - [Background](#background)
 - [Demo](#demo)
 - [Installation](#installation)

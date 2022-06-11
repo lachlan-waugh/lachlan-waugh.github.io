@@ -1,6 +1,7 @@
 ---
 title: "distributed shared memory"
-description: "idk yet"
+description: "A distributed shared memory library to share a single address space across multiple nodes, built in C"
+summary: "A distributed shared memory library to share a single address space across multiple nodes, built in C"
 weight: 20
 ---
 
