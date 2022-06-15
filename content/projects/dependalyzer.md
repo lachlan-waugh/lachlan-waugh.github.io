@@ -1,11 +1,11 @@
 ---
-title: "money trees"
+title: "dependalyzer"
 description: "A program to help identify and remediate dependency based attacks, and dependency confusion."
 summary: "A program to help identify and remediate dependency based attacks, and dependency confusion."
 weight: 10
 ---
 
-[Check it out on GitHub here!](https://github.com/lachlan-waugh/money-trees)
+[Check it out on GitHub here!](https://github.com/lachlan-waugh/dependalyzer)
 
 ![](https://i.imgur.com/kk08mRi.png)
 
@@ -14,7 +14,7 @@ weight: 10
 
 ## What is this?
 
-Money Trees provides a more secure way to interact with private and public package repositories using CodeArtifact, it also provides an enforcible process to handle code changes in private repositories and a dashboard that provides actionable intel, where the developers can focus on deploying a fix when the dashboard highlights packages that are vulnerable.
+Dependalyzer provides a more secure way to interact with private and public package repositories using CodeArtifact, it also provides an enforcible process to handle code changes in private repositories and a dashboard that provides actionable intel, where the developers can focus on deploying a fix when the dashboard highlights packages that are vulnerable.
 
 ![](https://i.imgur.com/VDpD4Ky.png)
 
@@ -90,10 +90,10 @@ Andrew Xie
 
 Click on the links below to learn more about each individual component and how it functions in the project
 
-- [Deployment](https://github.com/cs9447-team2/money-trees/tree/main//apps/deployment/README.md)
-- [Hooks](https://github.com/cs9447-team2/money-trees/tree/main//apps/hooks/README.md)
-- [HTTP](https://github.com/cs9447-team2/money-trees/tree/main//apps/http/README.md)
-- [Parser](https://github.com/cs9447-team2/money-trees/tree/main//apps/parser/README.md)
-- [Dashboard](https://github.com/cs9447-team2/money-trees/tree/main//apps/dashboard/README.md)
-- [Scanner](https://github.com/cs9447-team2/money-trees/tree/main//apps/scanner/README.md)
-- [Seeder](https://github.com/cs9447-team2/money-trees/tree/main//apps/seeder/README.md)
+- [Deployment](https://github.com/lachlan-waugh/dependalyzer/tree/main//apps/deployment/README.md)
+- [Hooks](https://github.com/lachlan-waugh/dependalyzer/tree/main//apps/hooks/README.md)
+- [HTTP](https://github.com/lachlan-waugh/dependalyzer/tree/main//apps/http/README.md)
+- [Parser](https://github.com/lachlan-waugh/dependalyzer/tree/main//apps/parser/README.md)
+- [Dashboard](https://github.com/lachlan-waugh/dependalyzer/tree/main//apps/dashboard/README.md)
+- [Scanner](https://github.com/lachlan-waugh/dependalyzer/tree/main//apps/scanner/README.md)
+- [Seeder](https://github.com/lachlan-waugh/dependalyzer/tree/main//apps/seeder/README.md)
