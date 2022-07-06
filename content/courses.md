@@ -18,9 +18,8 @@ hideMeta: true
 
 ## programming
 * **COMP3821**: Extended Algorithms and Programming Techniques
-* **COMP9242**: Advanced Operating Systems
-* **COMP9243**: Distributed Systems
 * **COMP3231**: Operating Systems
+* **COMP9243**: Distributed Systems
 * **COMP6771**: Advanced C++ Programming
 * **COMP6080**: Web Frontend Programming
 * **COMP3311**: Database Systems

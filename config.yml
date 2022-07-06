@@ -59,17 +59,13 @@ params:
     enabled: true # needs to be explicitly set
     title: Lachlan
     subtitle: "Security Engineer"
-    imageUrl: "https://www.plantsnap.com/wp-content/uploads/2020/11/shutterstock_1027540888.jpg"
+    imageUrl: "melon.webp"
     imageWidth: 180
     imageHeight: 180
-    imageTitle: a profile image
+    imageTitle: a picture of a watermelon (yum)
     buttons:
-    # - name: projects
-    #   url: /projects/
-    # - name: experience
-    #   url: /experience/
-    # - name: education
-    #   url: /education/
+    - name: resume
+      url: /resume.pdf
 
   # home-info mode
   homeInfoParams:

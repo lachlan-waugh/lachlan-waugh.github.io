@@ -1,4 +1,4 @@
 ---
 title: "Experience"
-description: "Work stuff (TODO)"
+description: "TODO"
 ---
