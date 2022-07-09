@@ -6,7 +6,7 @@ description: "Some of the work experience I've had"
 &nbsp;
 
 ## Casual Academic Tutor @ UNSW
-> Feb 2022 - Present
+> *Feb 2022 - Present*
 
 Tutored UNSW's main security courses, to classes of 10-20 students:
 * COMP6447 (System & Software Security Assessment)
@@ -20,7 +20,7 @@ Taught topics ranging from the dangers of implicit trust and authentication, to 
 &nbsp;
 
 ## Cyber Risk Intern @ Deloitte
-> Nov 2021 - Feb 2022
+> *Nov 2021 - Feb 2022*
 
 As part of the identity and access management team,
 * I crafted architecture proposals and documentation for the transformation of the existing single-sign on and federated identity infrastructure for the client.
@@ -29,7 +29,7 @@ As part of the identity and access management team,
 &nbsp;
 
 ## Computer Science / Mathematics Tutor
-> Jan 2018 - Dec 2020 
+> *Jan 2018 - Dec 2020*
 
 * Liaised with parents & students to develop uniquely adapted lesson plans to best suit students individual needs.
 * I assisted students from high school to undergraduate level.
