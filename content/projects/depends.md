@@ -5,7 +5,7 @@ summary: "A program to help identify and remediate dependency based attacks, and
 weight: 10
 ---
 
-[Check it out on GitHub here!](https://github.com/lachlan-waugh/dependalyzer)
+[Check it out on GitHub here!](https://github.com/lachlan-waugh/depends)
 
 ![](https://i.imgur.com/kk08mRi.png)
 
@@ -14,7 +14,7 @@ weight: 10
 
 ## What is this?
 
-Dependalyzer provides a more secure way to interact with private and public package repositories using CodeArtifact, it also provides an enforcible process to handle code changes in private repositories and a dashboard that provides actionable intel, where the developers can focus on deploying a fix when the dashboard highlights packages that are vulnerable.
+Depends provides a more secure way to interact with private and public package repositories using CodeArtifact, it also provides an enforcible process to handle code changes in private repositories and a dashboard that provides actionable intel, where the developers can focus on deploying a fix when the dashboard highlights packages that are vulnerable.
 
 ![](https://i.imgur.com/VDpD4Ky.png)
 
