@@ -14,7 +14,7 @@ Tutored UNSW's main security courses, to classes of 10-20 students:
 * COMP6441 (Security Engineering & Cybersecurity)
 
 Taught topics ranging from the dangers of implicit trust and authentication, to technical skills such as heap overflows, cross-site scripting, and reverse engineering.
-* Built various technical demonstrations, to help visualise how some of these vulnerabilities could come about, and be exploited. They can be viewed [here](https://github.com/lachlan-waugh/web-security-demos).
+* Built various technical demonstrations, to help visualise how some of these vulnerabilities could come about, and be exploited. They can be viewed [here](https://github.com/lachlan-waugh/security-demos), the full list of resources that I used/produced for time tutoring can also be found [here](/projects/tutoring)
 * Contributed to and built some of the challenges/infrastructure used for the technical parts of the courses (which I can't show off unfortunately).
 
 &nbsp;
