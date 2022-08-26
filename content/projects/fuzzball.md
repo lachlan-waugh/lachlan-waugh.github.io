@@ -8,7 +8,7 @@ weight: 20
 [Check it out on GitHub here!](https://github.com/lachlan-waugh/fuzzball)
 
 ## What is this?
-TODO
+TODO: finish this
 
 ### [Installation](#installation)
 ### [Usage](#usage)
