@@ -15,9 +15,10 @@ hideMeta: true
 
 ## tutoring
 some of the courses I've tutored throughout uni.
-* **[COMP6447](https://webcms3.cse.unsw.edu.au/COMP6447/22T2/outline#summary)**: System and Software Security Assessment
-* **[COMP6443](https://webcms3.cse.unsw.edu.au/static/uploads/course/COMP6443/22T2/f474e3afa054dcd777fcce57bc0708411f2ec6c549cdd5d7f6e31103f6f62dd6/Course_Outline_64436843_2022T2.pdf)**: Web Application Security and Testing
-* **[COMP6441]()**: Security Engineering and Cybersecurity
+* **[COMP6447](https://webcms3.cse.unsw.edu.au/COMP6447/22T2/outline#summary)**: System and Software Security Assessment (resources [here](/6447))
+* [COMP6445](): Digital Forensics and Incident Response (resources [here](/6445))
+* **[COMP6443](https://webcms3.cse.unsw.edu.au/static/uploads/course/COMP6443/22T2/f474e3afa054dcd777fcce57bc0708411f2ec6c549cdd5d7f6e31103f6f62dd6/Course_Outline_64436843_2022T2.pdf)**: Web Application Security and Testing (resources [here](/6443))
+* **[COMP6441]()**: Security Engineering and Cybersecurity (resources [here](/6441))
 
 &nbsp;
 
@@ -29,6 +30,5 @@ some of the courses I've taken throughout uni can be found [here](/courses).
 ## societies
 the societies I was a member of.
 * **SecSoc**: Security Society
-* **CSESoc**: Computer Science and Engineering Society
 * **CPMSoc**: Competitive Programming and Mathematics Society
-* **MathSoc**: Mathematics Society
+* MathSoc: Mathematics Society
