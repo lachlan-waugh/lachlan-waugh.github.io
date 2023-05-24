@@ -5,7 +5,7 @@ description: "Some of the work experience I've had"
 
 ## Security Engineering Graduate @ CommBank
 > *Feb 2023 - Present*
-* TODO
+* Part of the Third Party Incident Response Team
 
 &nbsp;
 
