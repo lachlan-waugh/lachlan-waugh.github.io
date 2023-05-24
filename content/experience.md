@@ -3,15 +3,21 @@ title: "Experience"
 description: "Some of the work experience I've had"
 ---
 
+## Security Engineering Graduate @ CommBank
+> *Feb 2023 - Present*
+* TODO
+
 &nbsp;
 
 ## Casual Academic Tutor @ UNSW
 > *Feb 2022 - Present*
 
 Tutored UNSW's main security courses, to classes of 10-20 students:
-* COMP6447 (System & Software Security Assessment)
-* COMP6443 (Web Application Security & Testing)
-* COMP6441 (Security Engineering & Cybersecurity)
+* COMP6447 (System & Software Security Assessment) [resources here](/6447)
+* COMP6445 (Digital Forensics and Incident Response) [resources here](/6445)
+* COMP6443 (Web Application Security & Testing) [resources here](/6443)
+
+* COMP6441 (Security Engineering & Cybersecurity) [resources here](/6441)
 
 Taught topics ranging from the dangers of implicit trust and authentication, to technical skills such as heap overflows, cross-site scripting, and reverse engineering.
 * Built various technical demonstrations, to help visualise how some of these vulnerabilities could come about, and be exploited. They can be viewed [here](https://github.com/lachlan-waugh/security-demos), the full list of resources that I used/produced for time tutoring can also be found [here](/projects/tutoring)
