@@ -24,6 +24,9 @@ jobs:
       - name: build
         run: hugo --gc --minify --cleanDestinationDir -d public
 
+      - name: add cname
+        run: echo "waugh.zip" > CNAME
+
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
         with: 
