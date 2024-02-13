@@ -25,7 +25,7 @@ jobs:
         run: hugo --gc --minify --cleanDestinationDir -d public
 
       - name: add cname
-        run: echo "waugh.zip" > CNAME
+        run: echo "waugh.zip" > ./public/CNAME
 
       - name: deploy
         uses: peaceiris/actions-gh-pages@v3
