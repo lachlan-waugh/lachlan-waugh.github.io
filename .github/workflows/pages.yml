@@ -22,7 +22,6 @@ jobs:
           extended: true
 
       - name: build
-        working-directory: slides
         run: hugo --gc --minify --cleanDestinationDir -d public
 
       - name: deploy
@@ -30,5 +29,5 @@ jobs:
         with: 
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: pages
-          publish_dir: ./slides/public
+          publish_dir: ./public
           enable_jekyll: true
