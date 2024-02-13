@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Lachlan Waugh</title>
+    <link>https://waugh.zip/projects/</link>
+    <description>Recent content in Projects on Lachlan Waugh</description>
+    <image>
+      <url>https://waugh.zip/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://waugh.zip/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://waugh.zip/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>depends</title>
+      <link>https://waugh.zip/projects/depends/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://waugh.zip/projects/depends/</guid>
+      <description>A program to help identify and remediate dependency based attacks, and dependency confusion.</description>
+    </item>
+    
+    <item>
+      <title>fuzzball</title>
+      <link>https://waugh.zip/projects/fuzzball/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://waugh.zip/projects/fuzzball/</guid>
+      <description>A fuzzer for binary programs taking simple plaintext, XML, JSON, &amp;amp; CSV input. Developed in Python.</description>
+    </item>
+    
+    <item>
+      <title>splitit</title>
+      <link>https://waugh.zip/projects/splitit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://waugh.zip/projects/splitit/</guid>
+      <description>A bill tracking, organisation, and payment solution for multiple users.</description>
+    </item>
+    
+    <item>
+      <title>packet seer</title>
+      <link>https://waugh.zip/projects/packet-seer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://waugh.zip/projects/packet-seer/</guid>
+      <description>A simple packet capture program to passively analyse and capture network traffic.</description>
+    </item>
+    
+    <item>
+      <title>tutoring resources</title>
+      <link>https://waugh.zip/projects/tutoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://waugh.zip/projects/tutoring/</guid>
+      <description>Some resources I&amp;#39;ve put together for students (also hosted on this website).</description>
+    </item>
+    
+    <item>
+      <title>lwaugh.io</title>
+      <link>https://waugh.zip/projects/lwaugh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://waugh.zip/projects/lwaugh/</guid>
+      <description>The source code for the website you&amp;#39;re on right now.</description>
+    </item>
+    
+    <item>
+      <title>distributed shared memory</title>
+      <link>https://waugh.zip/projects/dsm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://waugh.zip/projects/dsm/</guid>
+      <description>A distributed shared memory library to share a single address space across multiple nodes, built in C</description>
+    </item>
+    
+  </channel>
+</rss>
