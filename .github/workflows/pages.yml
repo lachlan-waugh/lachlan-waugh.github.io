@@ -8,21 +8,19 @@ on:
 
 jobs:
   deploy:
-    if: github.repository != 'lachlan-waugh/tut-template'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          submodules: true
 
-      - name: get hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: oven-sh/setup-bun@v1
         with:
-          hugo-version: 'latest'
-          extended: true
+          bun-version: 'latest'
+
+      - name: install packages
+        run: bun install
 
       - name: build
-        run: hugo --gc --minify --cleanDestinationDir -d public
+        run: bun run build 
 
       - name: add cname
         run: echo "waugh.zip" > ./public/CNAME
