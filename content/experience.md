@@ -3,9 +3,15 @@ title: "Experience"
 description: "Some of the work experience I've had"
 ---
 
+## Security Engineer @ Google
+> *May 2024 - Present*
+* Part of the Detection Team (Identity Task Force)
+
+&nbsp;
+
 ## Security Engineering Graduate @ CommBank
-> *Feb 2023 - Present*
-* Part of the Third Party Incident Response Team
+> *Feb 2023 - May 2024*
+* Part of the Threat Hunting, Security Engineering and Third Party IM teams
 
 &nbsp;
 
