@@ -9,12 +9,6 @@ description: "Some of the work experience I've had"
 
 &nbsp;
 
-## Security Engineering Graduate @ CommBank
-> *Feb 2023 - May 2024*
-* Part of the Threat Hunting, Security Engineering and Third Party IM teams
-
-&nbsp;
-
 ## Casual Academic Tutor @ UNSW
 > *Feb 2022 - Present*
 
@@ -22,7 +16,6 @@ Tutored UNSW's main security courses, to classes of 10-20 students:
 * COMP6447 (System & Software Security Assessment) [resources here](/6447)
 * COMP6445 (Digital Forensics and Incident Response) [resources here](/6445)
 * COMP6443 (Web Application Security & Testing) [resources here](/6443)
-
 * COMP6441 (Security Engineering & Cybersecurity) [resources here](/6441)
 
 Taught topics ranging from the dangers of implicit trust and authentication, to technical skills such as heap overflows, cross-site scripting, and reverse engineering.
@@ -31,17 +24,20 @@ Taught topics ranging from the dangers of implicit trust and authentication, to 
 
 &nbsp;
 
+## Security Engineering Graduate @ CommBank
+> *Feb 2023 - May 2024*
+* Threat Hunting, Security Engineering & Third Party IM
+
+&nbsp;
+
 ## Cyber Risk Intern @ Deloitte
 > *Nov 2021 - Feb 2022*
 
-As part of the identity and access management team,
-* I crafted architecture proposals and documentation for the transformation of the existing single-sign on and federated identity infrastructure for the client.
-* The project improved the scalability and security of their IAM solutions, by replacing the current Oracle-based IAM stack with OAuth, and OICD (M365, and Okta).
+* Pentesting
 
 &nbsp;
 
 ## Computer Science / Mathematics Tutor
 > *Jan 2018 - Dec 2020*
 
-* Liaised with parents & students to develop uniquely adapted lesson plans to best suit students individual needs.
-* I assisted students from high school to undergraduate level.
+* Taught people what a for loop is

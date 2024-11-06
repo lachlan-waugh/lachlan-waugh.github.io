@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Lachlan Waugh
-  description: "Security Engineer - IR, CTH"
+  description: "Security Engineer"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
@@ -75,8 +75,6 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/lachlan-waugh"
-    - name: stackoverflow
-      url: "https://stackoverflow.com/users/14965098/lachlan-waugh"
     - name: email
       url: "mailto:lachlan@waugh.zip"
     - name: twitter
@@ -126,9 +124,9 @@ menu:
       name: experience
       url: /experience/
       weight: 30
-    - identifier: education
-      name: education
-      url: /education/
+    - identifier: tutoring
+      name: tutoring
+      url: /tutoring/
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
