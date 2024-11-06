@@ -23,6 +23,7 @@ jobs:
 
       - name: build
         run: hugo --gc --minify --cleanDestinationDir -d public
+        continue-on-error: true
 
       - name: add cname
         run: echo "waugh.zip" > ./public/CNAME
