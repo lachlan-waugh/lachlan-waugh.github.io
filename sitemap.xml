@@ -20,8 +20,6 @@
   </url><url>
     <loc>https://waugh.zip/courses/</loc>
   </url><url>
-    <loc>https://waugh.zip/education/</loc>
-  </url><url>
     <loc>https://waugh.zip/experience/</loc>
   </url><url>
     <loc>https://waugh.zip/</loc>
@@ -29,5 +27,7 @@
     <loc>https://waugh.zip/projects/</loc>
   </url><url>
     <loc>https://waugh.zip/tags/</loc>
+  </url><url>
+    <loc>https://waugh.zip/tutoring/</loc>
   </url>
 </urlset>
