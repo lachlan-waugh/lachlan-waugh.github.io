@@ -1,6 +1,5 @@
 baseURL: "https://waugh.zip/"
 title: Lachlan Waugh
-paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -8,22 +7,24 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
   disableXML: true
   minifyOutput: true
+
+pagination:
+  pagerSize: 5
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Lachlan Waugh
   description: "Security Engineer"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
+  author: melon
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
-  defaultTheme: auto # dark, light
+  defaultTheme: dark
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -82,26 +83,11 @@ params:
     - name: linkedin
       url: "https://linkedin.com/in/lachlan-waugh"
 
-  analytics:
-    google:
-      SiteVerificationTag: "XYZabc"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
-
   cover:
     hidden: true # hide everywhere but not in structured data
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  # editPost:
-  #   URL: "https://github.com/<path_to_repo>/content"
-  #   Text: "Suggest Changes" # edit text
-  #   appendFilePath: true # to append file path to Edit link
-
-  # for search
-  # https://fusejs.io/api/options.html
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
