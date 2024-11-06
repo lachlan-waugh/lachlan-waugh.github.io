@@ -102,17 +102,17 @@ menu:
       name: home
       url: /
       weight: 10
-    - identifier: projects
-      name: projects
-      url: /projects/
+    - identifier: tutoring
+      name: tutoring
+      url: /tutoring/
       weight: 20
     - identifier: experience
       name: experience
       url: /experience/
       weight: 30
-    - identifier: tutoring
-      name: tutoring
-      url: /tutoring/
+    - identifier: projects
+      name: projects
+      url: /projects/
       weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
